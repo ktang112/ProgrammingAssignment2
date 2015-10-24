@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## SHA-1 hash: 77e82b7445ae412952d5340978974035e8881d24
 
 ## makeCacheMatrix creates a "special"  matrix object that can cache its inverse.
 
